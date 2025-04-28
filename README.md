@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muzi-cpu
 - 👀 I’m interested in C++,Javascript and Python
-- 🌱 I’m currently learning BSc Mathematical Sciences
+- 🌱 I’m currently pursuing a BSc Mathematical Sciences degree
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me;You can reach me using my email mwlubisi5@gmail.com
 - 😄 Pronouns: He/Him
